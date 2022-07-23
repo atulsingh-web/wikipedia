@@ -1,0 +1,194 @@
+{
+    "batchcomplete": "",
+    "continue": {
+        "sroffset": 20,
+        "continue": "-||"
+    },
+    "query": {
+        "searchinfo": {
+            "totalhits": 42539
+        },
+        "search": [
+            {
+                "ns": 0,
+                "title": "Binary search algorithm",
+                "pageid": 4266,
+                "size": 74507,
+                "wordcount": 9535,
+                "snippet": "binary <span class=\"searchmatch\">search</span>, also known as half-interval <span class=\"searchmatch\">search</span>, logarithmic <span class=\"searchmatch\">search</span>, or binary chop, is a <span class=\"searchmatch\">search</span> algorithm that finds the position of a target <span class=\"searchmatch\">value</span> within",
+                "timestamp": "2022-06-04T12:08:02Z"
+            },
+            {
+                "ns": 0,
+                "title": "Higher education",
+                "pageid": 14423,
+                "size": 33812,
+                "wordcount": 3099,
+                "snippet": "http://www.eric.ed.gov/ERICWebPortal/<span class=\"searchmatch\">search</span>/detailmini.jsp?_nfpb=true&amp;_&amp;ERICExt<span class=\"searchmatch\">Search</span>_<span class=\"searchmatch\">SearchValue</span>_0=ED091983&amp;ERICExt<span class=\"searchmatch\">Search</span>_<span class=\"searchmatch\">Search</span>Type_0=no&amp;accno=ED091983, accessed",
+                "timestamp": "2022-07-17T05:46:03Z"
+            },
+            {
+                "ns": 0,
+                "title": "List of hearings on international child abduction by US Congress",
+                "pageid": 29616721,
+                "size": 10349,
+                "wordcount": 207,
+                "snippet": "http://www.eric.ed.gov/ERICWebPortal/<span class=\"searchmatch\">search</span>/detailmini.jsp?_nfpb=true&amp;_&amp;ERICExt<span class=\"searchmatch\">Search</span>_<span class=\"searchmatch\">SearchValue</span>_0=ED284089&amp;ERICExt<span class=\"searchmatch\">Search</span>_<span class=\"searchmatch\">Search</span>Type_0=no&amp;accno=ED284089 http://www",
+                "timestamp": "2022-06-26T11:51:43Z"
+            },
+            {
+                "ns": 0,
+                "title": "Interpolation search",
+                "pageid": 69895,
+                "size": 9455,
+                "wordcount": 1282,
+                "snippet": "Interpolation <span class=\"searchmatch\">search</span> is an algorithm for searching for a key in an array that has been ordered by numerical <span class=\"searchmatch\">values</span> assigned to the keys (key <span class=\"searchmatch\">values</span>). It was",
+                "timestamp": "2022-02-20T09:56:00Z"
+            },
+            {
+                "ns": 0,
+                "title": "Affective science",
+                "pageid": 2671192,
+                "size": 7199,
+                "wordcount": 849,
+                "snippet": "/recordDetails/detailmini.jsp?_nfpb=true&amp;_&amp;ERICExt<span class=\"searchmatch\">Search</span>_<span class=\"searchmatch\">SearchValue</span>_0=ED346711&amp;ERICExt<span class=\"searchmatch\">Search</span>_<span class=\"searchmatch\">Search</span>Type_0=no&amp;accno=ED346711 Ann M.Kring and Erin K.Moran",
+                "timestamp": "2022-07-12T23:13:48Z"
+            },
+            {
+                "ns": 0,
+                "title": "Google Search",
+                "pageid": 12431,
+                "size": 91164,
+                "wordcount": 9355,
+                "snippet": "Google <span class=\"searchmatch\">Search</span> (also known simply as Google) is a <span class=\"searchmatch\">search</span> engine provided by Google. Handling more than 3.5 billion <span class=\"searchmatch\">searches</span> per day, it has a 92% share",
+                "timestamp": "2022-07-15T13:39:41Z"
+            },
+            {
+                "ns": 0,
+                "title": "Search engine optimization",
+                "pageid": 187946,
+                "size": 49182,
+                "wordcount": 5256,
+                "snippet": "crawling at a later date. Website owners recognized the <span class=\"searchmatch\">value</span> of a high ranking and visibility in <span class=\"searchmatch\">search</span> engine results, creating an opportunity for both white",
+                "timestamp": "2022-07-18T07:24:00Z"
+            },
+            {
+                "ns": 0,
+                "title": "The Searchers",
+                "pageid": 76335,
+                "size": 47241,
+                "wordcount": 5376,
+                "snippet": "interest, and those who <span class=\"searchmatch\">value</span> The <span class=\"searchmatch\">Searchers</span> filter it out, patiently waiting for a return to the main story line.&quot; The <span class=\"searchmatch\">Searchers</span> has been cited as one of",
+                "timestamp": "2022-07-10T02:34:29Z"
+            },
+            {
+                "ns": 0,
+                "title": "Reinforcement learning",
+                "pageid": 66294,
+                "size": 48654,
+                "wordcount": 5714,
+                "snippet": "The two main approaches for achieving this are <span class=\"searchmatch\">value</span> function estimation and direct policy <span class=\"searchmatch\">search</span>. <span class=\"searchmatch\">Value</span> function approaches attempt to find a policy that",
+                "timestamp": "2022-07-16T17:56:56Z"
+            },
+            {
+                "ns": 0,
+                "title": "Negative affectivity",
+                "pageid": 19471895,
+                "size": 39885,
+                "wordcount": 4673,
+                "snippet": "/recordDetails/detailmini.jsp?_nfpb=true&amp;_&amp;ERICExt<span class=\"searchmatch\">Search</span>_<span class=\"searchmatch\">SearchValue</span>_0=ED346711&amp;ERICExt<span class=\"searchmatch\">Search</span>_<span class=\"searchmatch\">Search</span>Type_0=no&amp;accno=ED346711 Watson, D.; Clark, L. A. (1984)",
+                "timestamp": "2022-06-15T09:34:14Z"
+            },
+            {
+                "ns": 0,
+                "title": "Best node search",
+                "pageid": 51954552,
+                "size": 2936,
+                "wordcount": 337,
+                "snippet": "other(s) may be propagated sooner than the absolute <span class=\"searchmatch\">value</span> of minimax for that subtree. Then a repetitive <span class=\"searchmatch\">search</span> narrows until a particular node is shown to be",
+                "timestamp": "2022-03-14T04:54:32Z"
+            },
+            {
+                "ns": 0,
+                "title": "Global studies",
+                "pageid": 2400074,
+                "size": 15646,
+                "wordcount": 1868,
+                "snippet": "/recordDetails/detailmini.jsp?_nfpb=true&amp;_&amp;ERICExt<span class=\"searchmatch\">Search</span>_<span class=\"searchmatch\">SearchValue</span>_0=ED093756&amp;ERICExt<span class=\"searchmatch\">Search</span>_<span class=\"searchmatch\">Search</span>Type_0=no&amp;accno=ED093756. Skylakakis, T 2010, \u2018The",
+                "timestamp": "2022-07-09T20:37:15Z"
+            },
+            {
+                "ns": 0,
+                "title": "Land Ordinance of 1785",
+                "pageid": 490484,
+                "size": 27163,
+                "wordcount": 3430,
+                "snippet": "http://www.eric.ed.gov/ERICWebPortal/<span class=\"searchmatch\">search</span>/detailmini.jsp?_nfpb=true&amp;_&amp;ERICExt<span class=\"searchmatch\">Search</span>_<span class=\"searchmatch\">SearchValue</span>_0=ED518388&amp;ERICExt<span class=\"searchmatch\">Search</span>_<span class=\"searchmatch\">Search</span>Type_0=no&amp;accno=ED518388 (Accessed",
+                "timestamp": "2022-07-08T21:53:42Z"
+            },
+            {
+                "ns": 0,
+                "title": "Search tree",
+                "pageid": 844292,
+                "size": 5425,
+                "wordcount": 710,
+                "snippet": "tree balance. <span class=\"searchmatch\">Search</span> trees are often used to implement an associative array. The <span class=\"searchmatch\">search</span> tree algorithm uses the key from the key\u2013<span class=\"searchmatch\">value</span> pair to find a",
+                "timestamp": "2022-03-11T09:27:11Z"
+            },
+            {
+                "ns": 0,
+                "title": "Hash table",
+                "pageid": 13833,
+                "size": 46813,
+                "wordcount": 5009,
+                "snippet": "time complexity bounds on <span class=\"searchmatch\">search</span>, delete, and insert operations in comparison to self-balancing binary <span class=\"searchmatch\">search</span> trees.:\u200a1\u200a A <span class=\"searchmatch\">value</span> x {\\displaystyle x} gets",
+                "timestamp": "2022-07-15T19:22:37Z"
+            },
+            {
+                "ns": 0,
+                "title": "Search algorithm",
+                "pageid": 28249,
+                "size": 13595,
+                "wordcount": 1783,
+                "snippet": "in the <span class=\"searchmatch\">search</span> space of a problem domain, with either discrete or continuous <span class=\"searchmatch\">values</span>. While the <span class=\"searchmatch\">search</span> problems described above and web <span class=\"searchmatch\">search</span> are both",
+                "timestamp": "2022-07-15T09:02:50Z"
+            },
+            {
+                "ns": 0,
+                "title": "A* search algorithm",
+                "pageid": 100558,
+                "size": 36432,
+                "wordcount": 4515,
+                "snippet": "<span class=\"searchmatch\">value</span>. Both Dijkstra's algorithm and depth-first <span class=\"searchmatch\">search</span> can be implemented more efficiently without including an h ( x ) {\\displaystyle h(x)} <span class=\"searchmatch\">value</span> at",
+                "timestamp": "2022-07-02T13:44:58Z"
+            },
+            {
+                "ns": 0,
+                "title": "Preschool",
+                "pageid": 420020,
+                "size": 58441,
+                "wordcount": 6998,
+                "snippet": "https://www.nurtureinfant.com/ _nfpb=true&amp;_&amp;ERICExt<span class=\"searchmatch\">Search</span>_<span class=\"searchmatch\">SearchValue</span>_0=ED269133&amp;ERICExt<span class=\"searchmatch\">Search</span>_<span class=\"searchmatch\">Search</span>Type_0=no&amp;accno=ED269133 the original on 15 June 2010",
+                "timestamp": "2022-07-07T11:36:54Z"
+            },
+            {
+                "ns": 0,
+                "title": "Trigger film",
+                "pageid": 22931322,
+                "size": 3744,
+                "wordcount": 523,
+                "snippet": "/recordDetails/detailmini.jsp?_nfpb=true&amp;_&amp;ERICExt<span class=\"searchmatch\">Search</span>_<span class=\"searchmatch\">SearchValue</span>_0=ED089783&amp;ERICExt<span class=\"searchmatch\">Search</span>_<span class=\"searchmatch\">Search</span>Type_0=no&amp;accno=ED089783 http://www.eric.ed",
+                "timestamp": "2021-10-23T17:02:45Z"
+            },
+            {
+                "ns": 0,
+                "title": "Nallagatla Swamy Das",
+                "pageid": 39957955,
+                "size": 8406,
+                "wordcount": 582,
+                "snippet": "LAGATLASWAMYDAS/NALLAGATLASWAMYDAS.HTML http://andhra.yestopolitics.com/people?<span class=\"searchmatch\">searchValue</span>=SWAMY%20DAS%20NALLAGATLA https://www.facebook.com/Swamydas",
+                "timestamp": "2022-06-16T21:02:20Z"
+            }
+        ]
+    }
+}
